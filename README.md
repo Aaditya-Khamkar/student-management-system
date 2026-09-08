@@ -23,3 +23,7 @@ A Python-based Student Management System built as a first-year B.Tech project.
 - Conditional statements
 - File handling
 - Input validation
+
+## 📚 Learning Progress
+
+Currently learning Python and Git/GitHub as part of my B.Tech AI & Data Science journey.
