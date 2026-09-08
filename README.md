@@ -27,7 +27,3 @@ A Python-based Student Management System built as a first-year B.Tech project.
 ## 📚 Learning Progress
 
 Currently learning Python and Git/GitHub as part of my B.Tech AI & Data Science journey.
-
-### 🔧 Git Practice
-
-This section was added while learning Git branches.
