@@ -35,3 +35,5 @@ This section was added while learning Git branches.
 ### 🌱 Currently Learning
 
 Python, Git, GitHub and Data Structures.
+
+Currently learning Python and Git/GitHub as part of my B.Tech AI & Data Science journey.
